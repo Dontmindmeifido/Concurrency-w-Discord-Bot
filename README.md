@@ -18,7 +18,7 @@ A Python Discord bot for personal task reminders, featuring concurrent timers, D
 
 ## Overview
 
-The Smart Task Scheduler Bot is a **personal reminder system for Discord** that delivers DM-based reminders with **concurrent timers**. It demonstrates modular Python programming, asynchronous task scheduling, error handling, and professional message formatting using **embeds**.
+The Smart Task Scheduler Bot is a **personal reminder system for Discord** that delivers DM-based reminders with **concurrent timers**, with python programming, asynchronous task scheduling, error handling, and message formatting using **embeds**.
 
 ---
 
