@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
-from Commands import register_commands
-from Scheduler import task_worker
+from commands import register_commands
+from scheduler import task_worker
 
 TOKEN = "TOKEN"
 

@@ -48,22 +48,22 @@ Cancel a scheduled reminder. Example:
   !cancel 2
 
 ### 1. Schedule a reminder
-![RemindMe Command](Images/image1.png)
+![RemindMe Command](images/image1.png)
 
 ### 2. List tasks with countdown
-![Tasks Command Countdown](Images/image2.png)
+![Tasks Command Countdown](images/image2.png)
 
 ### 3. Cancel a task
-![Cancel Task](Images/image3.png)
+![Cancel Task](images/image3.png)
 
 ### 4. Reminder DM notification
-![Reminder DM](Images/image4.png)
+![Reminder DM](images/image4.png)
 
 ### 5. Multiple users scheduling reminders
-![Multiple Users RemindMe](Images/image5.png)
+![Multiple Users RemindMe](images/image5.png)
 
 ### 6. Multiple users task list with different IDs
-![Multiple Users Tasks](Images/image6.png)
+![Multiple Users Tasks](images/image6.png)
 
 ---
 

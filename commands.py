@@ -1,5 +1,5 @@
-from Scheduler import task_queue, tasks_by_user, task_counter, parse_time, format_seconds
-from Embeds import reminder_scheduled_embed, reminder_dm_embed, task_list_embed, cancel_embed, error_embed
+from scheduler import task_queue, tasks_by_user, task_counter, parse_time, format_seconds
+from embeds import reminder_scheduled_embed, reminder_dm_embed, task_list_embed, cancel_embed, error_embed
 from datetime import datetime
 
 def register_commands(bot):
